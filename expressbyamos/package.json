@@ -1,0 +1,33 @@
+{
+  "name": "expressbyamos",
+  "version": "1.0.0",
+  "description": "express tut by amos",
+  "keywords": [
+    "my",
+    "learning",
+    "experience"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Neeksprojects"
+  },
+  "license": "ISC",
+  "author": "amos",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "devEngine": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^8.10.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "nodemon": "^3.1.9"
+  }
+}
