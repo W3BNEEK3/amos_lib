@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/package",
   "name": "expressbyamos",
   "version": "1.0.0",
   "description": "express tut by amos",
@@ -9,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Neeksprojects"
+    "url": "git@github.com:W3BNEEK3/amos_lib.git"
   },
   "license": "ISC",
   "author": "amos",
